@@ -125,6 +125,12 @@ ul {
 .headerinfo {
   margin-top: 45px; }
 
+.toppp {
+  display: block;
+  position: relative;
+  top: -100px;
+  display: none; }
+
 .headerfoto {
   margin-top: 20px;
   height: min-content; }
