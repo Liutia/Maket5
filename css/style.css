@@ -19,7 +19,7 @@ body {
   padding: 0; }
 
 .headerwithfoto123 {
-  background: url(/images/bg.png) center;
+  background: url(../images/bg.png) center;
   background-size: cover;
   height: 640px; }
 
@@ -281,7 +281,7 @@ a {
 
 .priceandplan1 {
   height: min-content;
-  background: url(/images/slider_fon.png) center;
+  background: url(../images/slider_fon.png) center;
   background-size: cover; }
 
 .productoverzag {
